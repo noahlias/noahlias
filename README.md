@@ -1,3 +1,7 @@
-Hi there 👋
+*Hi there 👋*
 
-> I love AI,Programming,Math.
+Interested in:
+- **Math**
+- **Programming**
+- **AI**
+- **Game**
