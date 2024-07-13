@@ -2,6 +2,8 @@
 
 Interested in:
 - **Math**
-- **Programming**
+- **Python**
+- **Haskell**
+- **Neovim**
 - **AI**
-- **Game**
+- **Game Develop**
